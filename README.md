@@ -1,6 +1,6 @@
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+# Super-Image-Tool
 
-# Super-Image-Tool  
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQ1TBn8msSrl5RH_B2Hq45bzY-LKxOvg15kT76a6DWSkVgQdnRRQhQ3iyo9hNi_WeCRmaVbblhstYAjvWZ6R5nTlqhSfaM7hbBGP8ABFnxbXi_enfiYm0uiPHMbn6XNlepiw6fhwYgtPpsOpZO8GTMKqrg16fgEqS7-1Q1yXz_1u6fSiWG44_wNgguQlq/s706/IMG_2024_07_27_084732.png)
 
 ## FEATURES:
 >- Support for Erofs / Ext4 / Ext2 /F2fs devices
