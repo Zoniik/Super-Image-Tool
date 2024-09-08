@@ -16,12 +16,10 @@
 
 🔰Installation & Requirements
 ━━━━━━━━━━━
-- Magisk or Ksu
-- Termux
-• Flash the zip and reboot you device.
+>- Magisk or Ksu
+>- Termux
+>- Flash the zip and reboot you device.
 
 🔰 Info and use of the Tool:
 ━━━━━━━━━━━
-> Start the Tool
-
-• Open Termux App and type: su -c super (then press enter)
+>- Open Termux App and type: su -c super (then press enter)
