@@ -1,0 +1,10 @@
+#!/system/bin/sh
+
+SUPER_IMAGE=/data/local/Super_Image/SUPER_BIN
+
+if [ -d "$SUPER_IMAGE" ]; then
+    cd $SUPER_BIN
+    . $SUPER_IMAGE/setup $SUPER_IMAGE
+else
+    echo "Ommiting.."
+fi
