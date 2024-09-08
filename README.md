@@ -1,7 +1,6 @@
 # Super-Image-Tool
 
 ## FEATURES:
-━━━━━━━━━━━
 >- Support for Erofs / Ext4 / Ext2 /F2fs devices
 >- Unpack your desired super.img or extract super.img from your device automatically
 >- You can unpack any super.img (In Raw or Sparse format)
@@ -15,11 +14,9 @@
 >- Interactive menu, easy to use`
 
 ## Installation & Requirements
-━━━━━━━━━━━
 >- Magisk or Ksu
 >- Termux
 >- Flash the zip and reboot you device.
 
 ## Info and use of the Tool:
-━━━━━━━━━━━
 >- Open Termux App and type: su -c super (then press enter)
