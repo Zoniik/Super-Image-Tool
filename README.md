@@ -1,6 +1,6 @@
 # Super-Image-Tool
 
-◕ 🔰 FEATURES:
+## FEATURES:
 ━━━━━━━━━━━
 >- Support for Erofs / Ext4 / Ext2 /F2fs devices
 >- Unpack your desired super.img or extract super.img from your device automatically
@@ -14,12 +14,12 @@
 >- Remove verification on your vbmeta files
 >- Interactive menu, easy to use`
 
-🔰Installation & Requirements
+## Installation & Requirements
 ━━━━━━━━━━━
 >- Magisk or Ksu
 >- Termux
 >- Flash the zip and reboot you device.
 
-🔰 Info and use of the Tool:
+## Info and use of the Tool:
 ━━━━━━━━━━━
 >- Open Termux App and type: su -c super (then press enter)
