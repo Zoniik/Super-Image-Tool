@@ -1,4 +1,6 @@
-# Super-Image-Tool
+![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
+
+# Super-Image-Tool  
 
 ## FEATURES:
 >- Support for Erofs / Ext4 / Ext2 /F2fs devices
@@ -62,3 +64,23 @@ type "yes" if you want to export it in sparse or type "no" if you want to skip t
 You can find your modified super image at: /data/local/Super_Image/FILES/SUPER
 
 >- file in /data/local/Super_Image/FILES/SUPER
+
+#### Disable verity vbmeta
+
+> Use this option only if it is necessary for you. The super image compiles with the original signature so there is no need to disable the signature on the vbmeta files. But in case your device needs it you can use this option. The vbmeta modified is on the path /data/local/Super_Image/FILES/VBMETA
+
+#### Clean Folder Projects
+> You can choose which folder to clean from the project
+
+#### EXTRAS
+> When you run the Tool in termux it will export a zip file to your phone's internal memory with the name "Super_Image-INSTALLER.zip" for be flashed in a custom recovery, this zip is an installer where you can flash your modified super image (both in raw and sparse format) it can also flash the vbmeta. The zip has options where you can choose what to select.
+
+
+>- For SUPER IMAGE OPTION:
+Use volume + to install the super image and vol - to skip the installation. If you choose vol + it will tell you if you want to install the super image in raw or sparse format . Vol + select raw and proceed with the installation / vol - select sparse and use vol + again to select and proceed with the installation.
+
+
+>- For VBMETA OPTION: Use vol + to flash the vbmeta files and vol - to skip this process.
+
+
+>- For WIPE OPTION: vol + to do a format data of your device , vol - to skip this process . Then you can reboot
