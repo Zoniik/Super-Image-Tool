@@ -9,7 +9,7 @@ Super-Image-Tool is a powerful tool for unpacking, editing, and repacking Androi
 - You can unpack any super.img (In Raw or Sparse format)
 - Adjust and expand your partitions
 - You can edit your partitions at any time (You only need to use option 2 directly if you already used option 1)
-- Menu extras (Debloat Automatic / Debloat Manual Console / Debloat Manual / Fix Overlay RW / Expand & Adjust Partitions)
+- Menu extras (Debloat Automatic / Debloat Manual Console / Debloat Manual / Fix Overlay RW / DFE Decrypt / Expand & Adjust Partitions)
 - Super image in RW
 - Compile without changing the super image signature
 - Export in raw and sparse formats
@@ -45,8 +45,12 @@ Use this option once you have used "option 1." The process will read the informa
 
 4. **Fix Overlay RW for Xiaomi Devices:**
    - This will patch the vendor's fstab to remove the RW restriction on the product and my_ext partitions.
+  
+5. **DFE Decrypt:**
 
-5. **Adjust & Compile Super Image:**
+   - The Tool will mount the extracted partitions and then make a patch in the vendor partition to remove the encryption on the device, by modifying the existing fstab file.
+
+6. **Adjust & Compile Super Image:**
    - You can distribute the free space to your partitions as you wish. The tool will guide you through the process. Once done, you can choose to export your modified super image as a raw or sparse format. 
    
    > **Note:** If free space is negative, you may need to perform a debloat and try again.
