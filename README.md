@@ -18,7 +18,7 @@ Super-Image-Tool is a powerful tool for unpacking, editing, and repacking Androi
 - Interactive menu, easy to use
 
 ## Installation & Requirements
-- Magisk or Ksu
+- Magisk, Ksu or Apatch 
 - Termux
 - Flash the zip and reboot your device
 
