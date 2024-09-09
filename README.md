@@ -1,5 +1,6 @@
 # Super-Image-Tool
-A tool for unpacking, editing, and repacking Android super images
+
+Super-Image-Tool is a powerful tool for unpacking, editing, and repacking Android `super.img` files. It provides a user-friendly interface to manage partitions, remove bloatware, and more. Whether you're an advanced user or just getting started, this tool offers a comprehensive set of features to customize your Android device.
 
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQ1TBn8msSrl5RH_B2Hq45bzY-LKxOvg15kT76a6DWSkVgQdnRRQhQ3iyo9hNi_WeCRmaVbblhstYAjvWZ6R5nTlqhSfaM7hbBGP8ABFnxbXi_enfiYm0uiPHMbn6XNlepiw6fhwYgtPpsOpZO8GTMKqrg16fgEqS7-1Q1yXz_1u6fSiWG44_wNgguQlq/s706/IMG_2024_07_27_084732.png)
 
@@ -71,3 +72,26 @@ When you run the Tool in Termux, it will export a zip file named `Super_Image-IN
 
 ## Notes:
 > **Important:** Make sure you have enough free space before starting the process. Incorrect modifications may brick your device.
+
+## Download the Tool here:
+[Super Image Tool Download](https://zonikproject.blogspot.com/p/super-image-tool.html?m=1)
+
+## Group of Support:
+[Join our Telegram Group](https://t.me/+5qqviO_5Hck5ZTc5)
+
+## Devices Tested and Working:
+- Motorola G20 (Unisoc)
+- Redmi Note 13 Pro 5G (Garnet)
+- Redmi Note 12S (Sea)
+- Redmi Note 10 Pro (Sweet)
+- Redmi Note 13 Pro 4G
+
+## Credits:
+- **Me** for the project I did
+- **BlassGO** for the amazing DI project, which was used for the zip installer and some of the project's features
+- **kory-vadim**, developer of the UKA Tool, for some binaries used in my project
+- **Google** for providing useful binaries for unpacking and repacking super images
+- **DarkGod14** and **JR4450** for their patience and help in testing the tool from the first phase of the project
+
+## Contributing
+Contributions are welcome! If you'd like to improve or expand Super-Image-Tool, feel free to open an issue or submit a pull request.
