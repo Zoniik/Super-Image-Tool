@@ -1,8 +1,7 @@
 # Super-Image-Tool
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQ1TBn8msSrl5RH_B2Hq45bzY-LKxOvg15kT76a6DWSkVgQdnRRQhQ3iyo9hNi_WeCRmaVbblhstYAjvWZ6R5nTlqhSfaM7hbBGP8ABFnxbXi_enfiYm0uiPHMbn6XNlepiw6fhwYgtPpsOpZO8GTMKqrg16fgEqS7-1Q1yXz_1u6fSiWG44_wNgguQlq/s706/IMG_2024_07_27_084732.png)
 
 Super-Image-Tool is a powerful tool for unpacking, editing, and repacking Android `super.img` files. It provides a user-friendly interface to manage partitions, remove bloatware, and more. Whether you're an advanced user or just getting started, this tool offers a comprehensive set of features to customize your Android device.
-
-![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQ1TBn8msSrl5RH_B2Hq45bzY-LKxOvg15kT76a6DWSkVgQdnRRQhQ3iyo9hNi_WeCRmaVbblhstYAjvWZ6R5nTlqhSfaM7hbBGP8ABFnxbXi_enfiYm0uiPHMbn6XNlepiw6fhwYgtPpsOpZO8GTMKqrg16fgEqS7-1Q1yXz_1u6fSiWG44_wNgguQlq/s706/IMG_2024_07_27_084732.png)
 
 ## Features:
 - Support for Erofs / Ext4 / Ext2 / F2fs devices
